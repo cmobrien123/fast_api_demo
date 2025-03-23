@@ -8,6 +8,7 @@ from configure import settings
 
 
 # models.Base.metadata.create_all(bind=engine)
+# some comment
 
 app = FastAPI()
 
